@@ -1,0 +1,42 @@
+.bg-secondary{
+    background-color:#281c54 !important;
+}
+.border-secondary{
+    border-color:#281c54 !important;
+}
+
+.text-primary{
+    color: #3056d3 !important;
+}
+
+.fs-1{
+    font-size: 4rem !important;
+}
+.fs-2{
+    font-size: 2.5rem !important;
+}
+
+.fs-7{
+    font-size: 6rem !important;
+}
+body{
+    font-family: 'League Spartan', sans-serif;
+}
+
+
+.btn{
+    background-color:#281c54 !important;
+    border-color: #281c54 !important;
+    color: white;
+    font-size: 24px;
+    padding: 8px 20px;
+}
+
+.btn:hover{
+    transform: scale(1..02);
+}
+
+svg{
+    cursor: pointer;
+}
+
